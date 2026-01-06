@@ -1,6 +1,7 @@
 Duygu Sınıflandırmasında Derin Öğrenme ve Makine Öğrenmesi Modelleri ile Çalışmalar 
 
 Kullanılan Teknolojiler:
+
 🐍 Python
 📊 Pandas
 ➗ Numpy
@@ -11,6 +12,7 @@ Kullanılan Teknolojiler:
 💾 joblib
 ☁️ Google Colab
 📁 Google Drive
+
 Modelleme & Algoritmalar:
 📉 Logistic Regression
 📊 Naive Bayes
