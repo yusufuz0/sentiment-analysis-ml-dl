@@ -3,21 +3,36 @@ Duygu Sınıflandırmasında Derin Öğrenme ve Makine Öğrenmesi Modelleri ile
 Kullanılan Teknolojiler:
 
 🐍 Python
+
 📊 Pandas
+
 ➗ Numpy
+
 🔤 re (Regular Expressions)
+
 🧠 scikit-learn
+
 🧪 TensorFlow / Keras
+
 🤗 Hugging Face Transformers
+
 💾 joblib
+
 ☁️ Google Colab
+
 📁 Google Drive
 
+
 Modelleme & Algoritmalar:
+
 📉 Logistic Regression
+
 📊 Naive Bayes
+
 🔄 LSTM 
+
 🤖 BERT 
+
 📈 TF-IDF 
 
 Bu projede, Python programlama dili ve Google Drive entegresyonu kullanılarak Google Colab ortamında 40.000 tweet içeren bir veri seti üzerinde duygu analizi yaptım. Veri setinde tweet ID, duygu etiketi ve içerik olmak üzere üç sütun vardı. Duygu etiketlerinde 13 farklı sınıf bulunuyordu, ancak bazı sınıflar çok azdı ve bu da model performansını etkiliyordu. Bu yüzden nadir görülen bazı duyguları çıkararak daha dengeli bir veri seti oluşturdum.
